@@ -1,0 +1,5 @@
+Tool for:
+
+- run the events of the microscope
+- pass object to the LLM
+- translate it for microscope and napari
